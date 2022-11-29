@@ -1,0 +1,10 @@
+{
+  "Id": "DSX",
+  "DisplayName": "DSX",
+  "Author": "Theaninova \"Myth's gf\"",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.24.0.0",
+  "GameVersion": "1.4.0",
+  "AssemblyName": "ArtOfRallyDSX.dll",
+  "EntryMethod": "ArtOfRallyDSX.Main.Load"
+}
